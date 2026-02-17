@@ -12,7 +12,7 @@
                         <div class="col-xl-6 col-lg-6">
                             <div class="hero__caption">
                                 <span data-animation="fadeInLeft" data-delay=".4s">Добро пожаловать в INTEGRA PRO.DESIGN</span>
-                                <h1 data-animation="fadeInLeft" data-delay=".6s">Мы делаем – вы отдыхаете</h1>
+                                <h1 data-animation="fadeInLeft" data-delay=".6s">Мы делаем вы отдыхаете</h1>
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@
     </div>
     <!-- Our Info start -->
     <!--? Professional Services Start -->
-    <div class="professional-services section-bg d-none d-md-block" data-background="assets/img/gallery/section_bg04.jpg"></div>
+    <div class="professional-services section-bg d-none d-md-block" data-background="assets/img/integra/banner/4.png"></div>
     <div class="profession-caption">
         <div class="container">
             <div class="row align-items-end">
@@ -151,7 +151,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-4 col-md-6">
                     <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
+                        <div class="gallery-img" style="background-image: url(assets/img/integra/projects/kislarod/4.jpg);"></div>
                         <div class="thumb-content-box">
                             <div class="thumb-content">
                                 <h3><span>Интерьер</span>ЖК Кислород</h3>
@@ -162,7 +162,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
+                        <div class="gallery-img" style="background-image: url(assets/img/integra/projects/jk-parkentskiy/5.jpg);"></div>
                         <div class="thumb-content-box">
                             <div class="thumb-content">
                                 <h3><span>Интерьер</span>ЖК Паркентский</h3>
@@ -173,7 +173,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="single-gallery mb-30">
-                            <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
+                            <div class="gallery-img" style="background-image: url(assets/img/integra/projects/royal-house/7.jpg);"></div>
                         <div class="thumb-content-box">
                             <div class="thumb-content">
                                 <h3><span>Интерьер</span>Royal House</h3>
@@ -195,7 +195,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery5.png);"></div>
+                        <div class="gallery-img" style="background-image: url(assets/img/integra/projects/royal-house/5.jpg);"></div>
                         <div class="thumb-content-box">
                             <div class="thumb-content">
                                 <h3><span>Ремонт</span>Минимализм</h3>
@@ -206,7 +206,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-4 col-md-6">
                     <div class="single-gallery mb-30">
-                        <div class="gallery-img" style="background-image: url(assets/img/gallery/gallery6.png);"></div>
+                        <div class="gallery-img" style="background-image: url(assets/img/integra/banner/1.jpg);"></div>
                         <div class="thumb-content-box">
                             <div class="thumb-content">
                                 <h3><span>Проект</span>Частный дом</h3>
@@ -236,7 +236,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="assets/img/gallery/team2.png" alt="">
+                            <img src="assets/img/integra/personal/kim.jpg" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Ким Виктор</a></h3>
@@ -247,7 +247,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="assets/img/gallery/team3.png" alt="">
+                            <img src="assets/img/integra/personal/hon.jpg" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Хон Елена</a></h3>
@@ -258,7 +258,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="assets/img/gallery/team1.png" alt="">
+                            <img src="assets/img/integra/personal/konstantin.jpg" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Безменов Константин</a></h3>

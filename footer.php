@@ -8,7 +8,7 @@
                         <div class="single-footer-caption mb-50">
                             <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.php"><img style="width: 200px; height: 200px;" src="assets/img/logo/logoorginal.png" alt=""></a>
+                                <a href="index.php"><img style="width: 200px;" src="assets/img/logo/logoorginal.png" alt=""></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
@@ -43,13 +43,38 @@
                                 <h4>Мы в Instagram</h4>
                             </div>
                             <div class="instagram-gellay">
-                                <ul class="insta-feed">
-                                    <li><a href="#"><img src="assets/img/gallery/instagram1.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram2.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram3.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram4.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram5.png" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/gallery/instagram6.png" alt=""></a></li>
+                                
+                                <ul class="insta-feed flex-wrap">
+                                    <li>
+                                        <a href="#">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/kislarod/3.jpg" alt="">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/jk-parkentskiy/3.jpg" alt="">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/royal-house/8.jpg" alt="">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/livingtone/3.jpg" alt="">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/karaoke-bar/3.jpg" alt="">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/banner/1.jpg" alt="">
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -117,6 +142,24 @@
     <!-- Jquery Plugins, main Jquery -->	
     <script src="./assets/js/plugins.js"></script>
     <script src="./assets/js/main.js"></script>
+
+
+
+
+
+
+
+
+    <script>
+function toggleTooltip(radio) {
+  document.getElementById('tooltipFull').classList.remove('visible');
+  document.getElementById('tooltipCosmetic').classList.remove('visible');
+  document.getElementById('tooltipDesign').classList.remove('visible');
+  if (radio.value === 'full') document.getElementById('tooltipFull').classList.add('visible');
+  if (radio.value === 'cosmetic') document.getElementById('tooltipCosmetic').classList.add('visible');
+  if (radio.value === 'design') document.getElementById('tooltipDesign').classList.add('visible');
+}
+</script>
     
 </body>
 </html>

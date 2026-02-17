@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap hero-cap2 text-center pt-80">
-                                <h2>Our Portfolio</h2>
+                                <h2>Портфолио</h2>
                             </div>
                         </div>
                     </div>
@@ -24,24 +24,24 @@
                     <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-info mb-60">
                             <div class="info-caption">
-                                <h4>Clean and Services</h4>
-                                <p>For each project we establish relationships with partners who we know will help us. </p>
+                                <h4>Качество и надежность</h4>
+                                <p>Для каждого проекта мы устанавливаем высокие стандарты качества и работаем только с проверенными партнерами.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-info mb-60">
                             <div class="info-caption">
-                                <h4>Clean and Modern</h4>
-                                <p>For each project we establish relationships with partners who we know will help us. </p>
+                                <h4>Современный дизайн</h4>
+                                <p>Создаем актуальные интерьеры, которые сочетают функциональность и эстетику современного стиля.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
                         <div class="single-info mb-60">
                             <div class="info-caption">
-                                <h4>Clean and Modern</h4>
-                                <p>For each project we establish relationships with partners who we know will help us. </p>
+                                <h4>Индивидуальный подход</h4>
+                                <p>Учитываем все пожелания клиента и создаем уникальные решения для каждого проекта.</p>
                             </div>
                         </div>
                     </div>
@@ -56,8 +56,8 @@
                     <div class="cl-xl-7 col-lg-8 col-md-10">
                         <!-- Section Tittle -->
                         <div class="section-tittle text-center mb-70">
-                            <span>Our Professional Services</span>
-                            <h2>Best Interitor Services</h2>
+                            <span>Наши профессиональные услуги</span>
+                            <h2>Лучшие решения для интерьера</h2>
                         </div> 
                     </div>
                 </div>
@@ -68,9 +68,9 @@
                                 <img src="assets/img/gallery/services1.png" alt="">
                              </div>
                              <div class="services-caption">
-                                <h3><a href="#">Lighting</a></h3>
-                                <p class="pera1">For each project we establish </p>
-                                <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
+                                <h3><a href="#">Освещение</a></h3>
+                                <p class="pera1">Профессиональные световые решения</p>
+                                <p class="pera2">Разрабатываем многоуровневое освещение, которое создает комфортную атмосферу и подчеркивает достоинства интерьера.</p>
                             </div>
                         </div>
                     </div>
@@ -80,9 +80,9 @@
                                 <img src="assets/img/gallery/services2.png" alt="">
                              </div>
                              <div class="services-caption">
-                                <h3><a href="#">Interior Design</a></h3>
-                                <p class="pera1">For each project we establish </p>
-                                <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
+                                <h3><a href="#">Дизайн интерьера</a></h3>
+                                <p class="pera1">Уникальные дизайн-проекты</p>
+                                <p class="pera2">Создаем индивидуальные интерьеры с полной визуализацией и детальной проработкой всех элементов пространства.</p>
                             </div>
                         </div>
                     </div>
@@ -92,9 +92,9 @@
                                 <img src="assets/img/gallery/services3.png" alt="">
                              </div>
                              <div class="services-caption">
-                                <h3><a href="#">Office Decoretion</a></h3>
-                                <p class="pera1">For each project we establish </p>
-                                <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
+                                <h3><a href="#">Дизайн офисов</a></h3>
+                                <p class="pera1">Коммерческие интерьеры</p>
+                                <p class="pera2">Разрабатываем функциональные и стильные офисные пространства, повышающие продуктивность работы команды.</p>
                             </div>
                         </div>
                     </div>
@@ -104,9 +104,9 @@
                                 <img src="assets/img/gallery/services4.png" alt="">
                              </div>
                              <div class="services-caption">
-                                <h3><a href="#">Lighting</a></h3>
-                                <p class="pera1">For each project we establish </p>
-                                <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
+                                <h3><a href="#">Ремонт под ключ</a></h3>
+                                <p class="pera1">Полный цикл ремонтных работ</p>
+                                <p class="pera2">Берем на себя все этапы ремонта от подготовки до финальной уборки с гарантией качества выполненных работ.</p>
                             </div>
                         </div>
                     </div>
@@ -116,9 +116,9 @@
                                 <img src="assets/img/gallery/services5.png" alt="">
                              </div>
                              <div class="services-caption">
-                                <h3><a href="#">Interior Design</a></h3>
-                                <p class="pera1">For each project we establish </p>
-                                <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
+                                <h3><a href="#">Авторский надзор</a></h3>
+                                <p class="pera1">Контроль качества реализации</p>
+                                <p class="pera2">Обеспечиваем точное соответствие выполненных работ дизайн-проекту на всех этапах строительства.</p>
                             </div>
                         </div>
                     </div>
@@ -128,9 +128,9 @@
                                 <img src="assets/img/gallery/services6.png" alt="">
                              </div>
                              <div class="services-caption">
-                                <h3><a href="#">Office Decoretion</a></h3>
-                                <p class="pera1">For each project we establish </p>
-                                <p class="pera2">For each project we establish relationships with partners who we know will help us. </p>
+                                <h3><a href="#">Комплектация объектов</a></h3>
+                                <p class="pera1">Подбор мебели и декора</p>
+                                <p class="pera2">Помогаем подобрать и приобрести мебель, технику, текстиль и декор согласно дизайн-проекту.</p>
                             </div>
                         </div>
                     </div>
@@ -170,11 +170,11 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-xl-8 col-lg-8 col-md-8">
                         <div class="wantToWork-caption wantToWork-caption2">
-                            <h2>Are you Searching For a First-Class Consultant?</h2>
+                            <h2>Ищете профессионалов для вашего проекта?</h2>
                         </div>
                     </div>
                     <div class="col-xl-2 col-lg-2 col-md-3">
-                        <a href="#" class="btn btn-black f-right">Contact Us</a>
+                        <a href="#" class="btn btn-black f-right">Связаться с нами</a>
                     </div>
                 </div>
             </div>

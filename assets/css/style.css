@@ -25,6 +25,35 @@
 
 -------------------------------------------------
 */
+
+.mobile-content{
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .mobile-content{
+  display: block;
+}
+}
+
+
+.blog_item_img img{
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.post_item img{
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+
+.insta-photo{
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+
 /*-------------   Color Variable  --------------*/
 @import url("https://fonts.googleapis.com/css?family=Barlow+Condensed:200,300,400,500,600,700,800|Barlow:300,400,500,600,700&display=swap");
 /* line 34, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_color.scss */
@@ -101,7 +130,7 @@
   color: #ff1313 !important;
   display: inline-block;
   padding: 18px 44px;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
@@ -212,7 +241,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #fff;
   margin-top: 0px;
   font-style: normal;
@@ -509,7 +538,7 @@ hr {
   background: #ff1313;
   padding: 27px 44px;
   text-transform: uppercase;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #fff;
   cursor: pointer;
   display: inline-block;
@@ -2491,8 +2520,8 @@ hero-btn {
 
 /* line 615, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_common.scss */
 .preloader .preloader-circle {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   position: relative;
   border-style: solid;
   border-width: 1px;
@@ -2538,7 +2567,7 @@ hero-btn {
 
 /* line 658, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_common.scss */
 .preloader .preloader-img img {
-  max-width: 55px;
+  max-width: 150px;
 }
 
 /* line 661, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_common.scss */
@@ -3251,7 +3280,7 @@ hero-btn {
   padding: 39px 19px;
   display: block;
   font-size: 16px;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -3364,7 +3393,7 @@ hero-btn {
 
 /* line 160, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_btn {
-  top: -23px;
+  top: -43px;
 }
 
 /* line 163, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -3397,7 +3426,8 @@ hero-btn {
 
 /* line 1, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_h1-hero.scss */
 .slider-height {
-  height: 1050px;
+  min-height: 350px;
+  height: 100vh;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3474,7 +3504,7 @@ hero-btn {
 /* line 43, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_h1-hero.scss */
 .slider-area {
   position: relative;
-  background-image: url(../img/hero/h1_hero.jpg);
+  background-image: url(../img/integra/banner/5.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3614,7 +3644,7 @@ hero-btn {
 .hero-overly::before {
   position: absolute;
   content: "";
-  background-color: rgba(1, 10, 28, 0.6);
+  background-color: rgba(1, 10, 28, 0.2);
   width: 100%;
   height: 100%;
   left: 0;
@@ -4137,7 +4167,7 @@ hero-btn {
   width: 100%;
   content: "";
   background-color: rgba(1, 10, 28, 0.6);
-  opacity: 0;
+  opacity: 1;
   z-index: 1;
   -webkit-transition: all 0.4s ease-out 0s;
   -moz-transition: all 0.4s ease-out 0s;
@@ -4170,8 +4200,8 @@ hero-btn {
   transform: translateY(-50%);
   height: 100%;
   width: 100%;
-  opacity: 0;
-  visibility: hidden;
+  opacity: 1;
+  visibility: visible;
   transition: .4s;
   z-index: 2;
 }
@@ -4284,7 +4314,7 @@ hero-btn {
   color: #959595;
   font-size: 16px;
   font-weight: 300;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   display: block;
   position: relative;
   margin-left: 50px;
@@ -4398,7 +4428,7 @@ hero-btn {
   font-size: 18px;
   line-height: 1;
   display: block;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /* line 60, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_testimonial.scss */
@@ -4827,7 +4857,7 @@ hero-btn {
 .home-blog-area .home-blog-single .blog-img-cap ul li {
   display: inline-block;
   font-size: 14px;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   color: #787878;
 }
@@ -4930,7 +4960,7 @@ hero-btn {
   color: #3a3a3a;
   text-transform: capitalize;
   font-size: 14px;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #3a3a3a;
   position: relative;
   padding-left: 50px;
@@ -4974,7 +5004,7 @@ hero-btn {
 
 /* line 125, ../../../sponDon TI/Running Project/263.InteriorDesign_HTML/HTML/assets/scss/_blog_page.scss */
 .blog_area a {
-  color: "Barlow Condensed", sans-serif !important;
+  color: "Roboto", sans-serif !important;
   text-decoration: none;
   transition: .4s;
 }
@@ -6600,7 +6630,7 @@ hero-btn {
   color: #fff;
   font-weight: 900;
   margin-bottom: 0;
-  font-family: "Barlow Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
   text-transform: capitalize;
 }
 
@@ -8121,3 +8151,308 @@ del {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .form-wrap {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 4px;
+    padding: 40px;
+    max-width: 700px;
+    width: 100%;
+    color: #fff;
+  }
+
+  h2 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    letter-spacing: 0.5px;
+  }
+
+  .field-label {
+    font-size: 13px;
+    color: #aaa;
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  .form-group { margin-bottom: 22px; }
+
+  /* Slider */
+  .slider-val {
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  input[type=range] {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 4px;
+    background: #333;
+    border-radius: 2px;
+    outline: none;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #c0392b;
+    cursor: pointer;
+    box-shadow: 0 0 4px rgba(192,57,43,0.6);
+  }
+  .slider-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #666;
+    margin-top: 4px;
+  }
+
+  /* Radio buttons */
+  .radio-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .radio-group label {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #ccc;
+    transition: color 0.2s;
+  }
+  .radio-group label:hover { color: #fff; }
+  .radio-group input[type=radio] { display: none; }
+  .radio-custom {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 2px solid #555;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: border-color 0.2s;
+  }
+  .radio-custom::after {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #c0392b;
+    display: none;
+  }
+  .radio-group input[type=radio]:checked + .radio-custom {
+    border-color: #c0392b;
+  }
+  .radio-group input[type=radio]:checked + .radio-custom::after {
+    display: block;
+  }
+  .radio-group input[type=radio]:checked ~ span {
+    color: #fff;
+  }
+
+  /* Tooltip box */
+  .tooltip-box {
+    background: #2a2a2a;
+    border: 1px solid #3a3a3a;
+    border-radius: 4px;
+    padding: 14px 16px;
+    font-size: 13px;
+    color: #ccc;
+    line-height: 1.7;
+    margin-top: 10px;
+    display: none;
+  }
+  .tooltip-box.visible { display: block; }
+  .tooltip-box strong { color: #fff; display: block; margin-bottom: 6px; }
+  .tooltip-box ul { padding-left: 18px; }
+
+  /* Text inputs */
+  .input-row {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .input-row .form-group { flex: 1; min-width: 180px; }
+
+  .form-control {
+    width: 100%;
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 3px;
+    color: #fff;
+    padding: 12px 14px;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .form-control:focus { border-color: #c0392b; }
+  .form-control::placeholder { color: #555; }
+
+  /* Buttons */
+  .btn-row {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-top: 6px;
+  }
+  .btn-tg, .btn-phone {
+    flex: 1;
+    min-width: 160px;
+    padding: 14px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    border: none;
+    transition: opacity 0.2s, transform 0.15s;
+  }
+  .btn-tg { background: #c0392b !important; color: #fff !important; }
+  .btn-phone { background: transparent !important; border: 1px solid #555 !important; color: #ccc !important; }
+
+
+  hr.sep { border: none; border-top: 1px solid #2a2a2a; margin: 24px 0; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #exampleModal .form-control {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    color: #fff;
+    border-radius: 3px;
+    padding: 12px 14px;
+}
+
+#exampleModal .form-control::placeholder {
+    color: #888;
+}
+
+#exampleModal .form-control:focus {
+    background: #1a1a1a;
+    border-color: #c0392b;
+    color: #fff;
+    box-shadow: none;
+}
+
+#exampleModal .input-row {
+    display: flex;
+    gap: 16px;
+}
+
+#exampleModal .input-row .form-group {
+    flex: 1;
+}
+
+
+
+
+
+
+
+
+
+#exampleModal .modal-content {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    color: #fff;
+}
+
+#exampleModal .modal-header {
+    border-bottom: 1px solid #2a2a2a;
+}
+
+#exampleModal .close {
+    color: #fff;
+    opacity: 0.7;
+}
+
+#exampleModal .close:hover {
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+.logo-img{
+  width: 140px;
+}
+
+
+
+@media (max-width: 500px) {
+  .logo-img{
+    width: 100px;
+}
+
+.btn {
+    padding: 18px 28px;
+    font-size: 13px;
+}
+
+.mobile_menu .slicknav_menu .slicknav_btn {
+    top: -34px;
+}
+
+.gallery-area .single-gallery .gallery-img {
+    height: 390px;
+}
+}

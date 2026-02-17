@@ -25,7 +25,7 @@
                         <div class="blog_left_sidebar">
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_1.png" alt="">
+                                    <img class="card-img rounded-0" src="assets/img/integra/projects/kislarod/1.jpg" alt="">
                                     <a href="#" class="blog_item_date">
                                         <h3>15</h3>
                                         <p>Янв</p>
@@ -46,7 +46,7 @@
 
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_2.png" alt="">
+                                    <img class="card-img rounded-0" src="assets/img/integra/banner/1.jpg" alt="">
                                     <a href="#" class="blog_item_date">
                                         <h3>12</h3>
                                         <p>Янв</p>
@@ -67,7 +67,7 @@
 
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_3.png" alt="">
+                                    <img class="card-img rounded-0" src="assets/img/integra/projects/royal-house/6.jpg" alt="">
                                     <a href="#" class="blog_item_date">
                                         <h3>08</h3>
                                         <p>Янв</p>
@@ -88,7 +88,7 @@
 
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
+                                    <img class="card-img rounded-0" src="assets/img/integra/projects/livingtone/1.jpg" alt="">
                                     <a href="#" class="blog_item_date">
                                         <h3>05</h3>
                                         <p>Янв</p>
@@ -109,7 +109,7 @@
 
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="assets/img/blog/single_blog_5.png" alt="">
+                                    <img class="card-img rounded-0" src="assets/img/integra/projects/karaoke-bar/1.jpg" alt="">
                                     <a href="#" class="blog_item_date">
                                         <h3>02</h3>
                                         <p>Янв</p>
@@ -214,7 +214,7 @@
                             <aside class="single_sidebar_widget popular_post_widget">
                                 <h3 class="widget_title" style="color: #2d2d2d;">Последние статьи</h3>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_1.png" alt="post">
+                                    <img src="assets/img/integra/banner/1.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">Минимализм в интерьере...</h3>
@@ -223,7 +223,7 @@
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_2.png" alt="post">
+                                    <img src="assets/img/integra/banner/2.png" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">Тренды дизайна 2025</h3>
@@ -232,7 +232,7 @@
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_3.png" alt="post">
+                                    <img src="assets/img/integra/banner/3.png" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">Как выбрать стиль интерьера</h3>
@@ -241,7 +241,7 @@
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="assets/img/post/post_4.png" alt="post">
+                                    <img src="assets/img/integra/banner/4.png" alt="post">
                                     <div class="media-body">
                                         <a href="blog_details.php">
                                             <h3 style="color: #2d2d2d;">Освещение в квартире</h3>
@@ -285,32 +285,32 @@
                                 <ul class="instagram_row flex-wrap">
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_5.png" alt="">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/kislarod/3.jpg" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_6.png" alt="">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/jk-parkentskiy/3.jpg" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_7.png" alt="">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/royal-house/8.jpg" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_8.png" alt="">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/livingtone/3.jpg" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_9.png" alt="">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/projects/karaoke-bar/3.jpg" alt="">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <img class="img-fluid" src="assets/img/post/post_10.png" alt="">
+                                            <img class="img-fluid insta-photo" src="assets/img/integra/banner/1.jpg" alt="">
                                         </a>
                                     </li>
                                 </ul>
